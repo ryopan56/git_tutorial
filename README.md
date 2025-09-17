@@ -2,3 +2,4 @@
 git pull
 git merge
 git merge
+コンフリクト
